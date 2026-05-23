@@ -671,6 +671,7 @@ local ANIMAL_DATA = {
     ["Dolphini Jetskini"] = {gen=294500,price=64500000},
     ["Donkeyturbo Express"] = {gen=7500000,price=1250000000},
     ["Dragon Cannelloni"] = {gen=250000000,price=250000000000},
+    ["Dragon Aquanini"] = {gen=375000000,price=375000000000},
     ["Dragon Gingerini"] = {gen=350000000,price=350000000000},
     ["Dug dug dug"] = {gen=35000000,price=5000000000},
     ["Dul Dul Dul"] = {gen=375000,price=150000000},
